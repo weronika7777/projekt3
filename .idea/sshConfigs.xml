@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="orfi.uwm.edu.pl" id="e58cf8c8-6124-4a15-a570-2ba8fe7773b4" port="22" nameFormat="DESCRIPTIVE" username="s145656" />
+    </configs>
+  </component>
+</project>

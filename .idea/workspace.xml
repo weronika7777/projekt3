@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78c1d43c-fc84-463a-ba7e-eecb83fd885e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jSoNimwrIfSs6s4qKBocpMOvk8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\WebstormProjects\projekt2\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78c1d43c-fc84-463a-ba7e-eecb83fd885e" name="Default Changelist" comment="" />
+      <created>1603806816269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603806816269</updated>
+      <workItem from="1603806817357" duration="14000" />
+      <workItem from="1603806987066" duration="247000" />
+      <workItem from="1603996858429" duration="1167000" />
+      <workItem from="1603998056914" duration="20000" />
+      <workItem from="1604001951868" duration="3211000" />
+      <workItem from="1604059993932" duration="8089000" />
+      <workItem from="1604344337100" duration="14306000" />
+      <workItem from="1605555773887" duration="7524000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="70" key="#Deployment" timestamp="1605564737639">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="70" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1605564737639" />
+    <state x="344" y="57" key="#SSH_Configurations" timestamp="1605564726755">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="344" y="57" key="#SSH_Configurations/0.0.1536.824@0.0.1536.824" timestamp="1605564726755" />
+    <state x="525" y="211" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605565227462">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="525" y="211" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1605565227462" />
+    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1603998074727">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603998074727" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605564782215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605564782215" />
+    <state x="490" y="321" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1604002017919">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="321" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1604002017919" />
+  </component>
+</project>

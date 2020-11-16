@@ -1,0 +1,63 @@
+/* reset CSS */
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,time, mark, audio, video {
+
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    font-family: 'Grandstander', cursive;
+}
+body {
+    background-color: #ffc64e;
+    background-attachment:fixed!important;
+    background-repeat: no-repeat!important;
+    text-align: center;
+    background-position: top left!important;
+}
+h1{margin-top: 5px;margin-bottom: 5px}
+header{text-align: center; height: 150px; background-image: url("../img/free-image-39-small.jpg"); background-repeat:no-repeat; background-size: cover}
+div.jumbotron{
+margin-bottom: 0px;
+    background-color: #ffc64e;
+}
+div.orange{
+    margin-top: 10px;
+}
+div.cointainer1{
+    height: 100px;
+}
+div.cointeiner2{
+    height: 150px;
+    background-color: #ffc64e;
+}
+
+div.orange{
+    margin-top: 15px;
+}
+table.table-hover{margin-bottom:0px}
+tr{margin-bottom: 0px;}
+footer {
+    clear: both;
+    position: relative;
+    height: 20px;
+    background: #803514;
+    color:white;
+    text-align:center;
+}
+div.galeria{
+    width:50%;
+    margin: auto;
+
+}
+.enter{clear: both}
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (min-device-pixel-ratio: 2),
+only screen and (min-resolution: 192dpi),
+only screen and (min-resolution: 2dppx) {
+    /* styles for Retina-type displays */
+}
